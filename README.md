@@ -9,3 +9,7 @@ Requirements:
 * opencv 3.x
 * tensorflow
 * numpy
+
+Facenet models need to be downloaded separately. They can be found for example
+on the [Facenet github
+page](https://github.com/davidsandberg/facenet#pre-trained-models).
